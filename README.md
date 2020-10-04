@@ -1,3 +1,3 @@
-# Notas
+# Custom Hooks
 
-Este repositorio contiene varios custom hooks de ayuda para mí y cualquiera que encuentre utilidad en los mismos
+This repository contains a variaty of custom hooks that are ready to use
